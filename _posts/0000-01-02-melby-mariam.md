@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+Today is the Reality
 
 Use the left arrow to go back!
